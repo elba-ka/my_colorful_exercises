@@ -85,7 +85,7 @@ da1 = Diamond(9, -30)
 da2 = Diamond(3, 20)
 ci1 = Cirecle(5)
 ci2 = Cirecle(11)
-tr1 = Triangle(3, 3, 1)
+tr1 = Triangle(5, 3, 1)
 
 
 print(pa1.area, pa1.perimeter)
